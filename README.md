@@ -7,3 +7,6 @@
 1. Language translator API
 2. Speech-to-Text API
 3. Text-to-Speech API
+
+### Powerpoint Link
+https://docs.google.com/presentation/d/1TqyS3OtQNeOEj_1HQn8o0SiH1uIvo64JC5rbPyVfzUo/edit?usp=sharing
